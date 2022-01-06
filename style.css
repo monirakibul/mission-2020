@@ -96,6 +96,10 @@ p {
     background-position: bottom 0px right 0px;
     background-size: 18%;
 }
+.statictics {
+    margin: 20px 6%;
+    text-align: center;
+}
 .footer-container {
     background-color: black;
     text-align: center;
